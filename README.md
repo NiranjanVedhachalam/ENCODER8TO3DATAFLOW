@@ -1,4 +1,8 @@
-### ENCODER 8TO3 DATAFLOW Modelling
+**Name: Niranjan V**
+
+**REGISTER NO: 212224110042**
+
+### EX NO: 5 - ENCODER 8TO3 DATAFLOW Modelling
 
 **AIM:**
 
